@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.example.myapp-debug-32:/drawable_ic_analytics.xml.flat",
+        "source": "com.example.myapp-main-34:/drawable/ic_analytics.xml"
+    },
+    {
+        "merged": "com.example.myapp-debug-32:/layout_activity_register.xml.flat",
+        "source": "com.example.myapp-main-34:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.myapp-debug-32:/drawable_ic_email.xml.flat",
+        "source": "com.example.myapp-main-34:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "com.example.myapp-debug-32:/drawable_ic_help.xml.flat",
+        "source": "com.example.myapp-main-34:/drawable/ic_help.xml"
+    },
+    {
+        "merged": "com.example.myapp-debug-32:/drawable_ic_reset_password.xml.flat",
+        "source": "com.example.myapp-main-34:/drawable/ic_reset_password.xml"
+    },
+    {
+        "merged": "com.example.myapp-debug-32:/drawable_bg_circle_white.xml.flat",
+        "source": "com.example.myapp-main-34:/drawable/bg_circle_white.xml"
+    },
+    {
+        "merged": "com.example.myapp-debug-32:/drawable_ic_message.xml.flat",
+        "source": "com.example.myapp-main-34:/drawable/ic_message.xml"
+    },
+    {
+        "merged": "com.example.myapp-debug-32:/drawable_ic_calendar.xml.flat",
+        "source": "com.example.myapp-main-34:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "com.example.myapp-debug-32:/layout_activity_login.xml.flat",
+        "source": "com.example.myapp-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.myapp-debug-32:/drawable_ic_app_logo.xml.flat",
+        "source": "com.example.myapp-main-34:/drawable/ic_app_logo.xml"
+    },
+    {
+        "merged": "com.example.myapp-debug-32:/layout_activity_splash.xml.flat",
+        "source": "com.example.myapp-main-34:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.myapp-debug-32:/drawable_ic_person.xml.flat",
+        "source": "com.example.myapp-main-34:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.example.myapp-debug-32:/layout_activity_forgot_password.xml.flat",
+        "source": "com.example.myapp-main-34:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "com.example.myapp-debug-32:/layout_activity_dashboard.xml.flat",
+        "source": "com.example.myapp-main-34:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.example.myapp-debug-32:/layout_activity_profile.xml.flat",
+        "source": "com.example.myapp-main-34:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.myapp-debug-32:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.example.myapp-main-34:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.example.myapp-debug-32:/drawable_ic_folder.xml.flat",
+        "source": "com.example.myapp-main-34:/drawable/ic_folder.xml"
+    },
+    {
+        "merged": "com.example.myapp-debug-32:/drawable_ic_notifications.xml.flat",
+        "source": "com.example.myapp-main-34:/drawable/ic_notifications.xml"
+    },
+    {
+        "merged": "com.example.myapp-debug-32:/drawable_ic_forgot_password.xml.flat",
+        "source": "com.example.myapp-main-34:/drawable/ic_forgot_password.xml"
+    },
+    {
+        "merged": "com.example.myapp-debug-32:/drawable_ic_lock.xml.flat",
+        "source": "com.example.myapp-main-34:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "com.example.myapp-debug-32:/layout_activity_reset_password.xml.flat",
+        "source": "com.example.myapp-main-34:/layout/activity_reset_password.xml"
+    },
+    {
+        "merged": "com.example.myapp-debug-32:/drawable_ic_settings.xml.flat",
+        "source": "com.example.myapp-main-34:/drawable/ic_settings.xml"
+    }
+]

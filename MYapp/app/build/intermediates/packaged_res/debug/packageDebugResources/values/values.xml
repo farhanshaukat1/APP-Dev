@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FF6F00</color>
+    <color name="background">#F5F7FA</color>
+    <color name="border">#BDBDBD</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="error_color">#D32F2F</color>
+    <color name="module_analytics">#2E7D32</color>
+    <color name="module_calendar">#E65100</color>
+    <color name="module_files">#4527A0</color>
+    <color name="module_help">#37474F</color>
+    <color name="module_messages">#00838F</color>
+    <color name="module_notifications">#C62828</color>
+    <color name="module_profile">#1565C0</color>
+    <color name="module_settings">#6A1B9A</color>
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="primary_light">#1E88E5</color>
+    <color name="splash_end">#0D47A1</color>
+    <color name="splash_start">#1565C0</color>
+    <color name="status_bar_color">#0D47A1</color>
+    <color name="success_color">#388E3C</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_hint">#9E9E9E</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#616161</color>
+    <color name="transparent">#00000000</color>
+    <color name="warning_color">#F57C00</color>
+    <string name="already_have_account">Already have an account? </string>
+    <string name="app_name">MyApp</string>
+    <string name="app_tagline">Your Smart Companion</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_edit_profile">Edit Profile</string>
+    <string name="btn_forgot_password">Forgot Password?</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_logout">Logout</string>
+    <string name="btn_register">Create Account</string>
+    <string name="btn_register_submit">Register</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_send_reset">Send Reset Link</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="btn_yes">Yes</string>
+    <string name="dashboard_greeting">Hello, %1$s!</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="error_email_not_found">Email address not registered.</string>
+    <string name="error_field_required">This field is required.</string>
+    <string name="error_invalid_credentials">Invalid email or password.</string>
+    <string name="error_invalid_email">Please enter a valid email address.</string>
+    <string name="error_name_short">Name must be at least 2 characters.</string>
+    <string name="error_password_short">Password must be at least 6 characters.</string>
+    <string name="error_passwords_no_match">Passwords do not match.</string>
+    <string name="forgot_password_subtitle">Enter your email and we\'ll send you a reset link.</string>
+    <string name="forgot_password_title">Forgot Password</string>
+    <string name="hint_confirm_new_password">Confirm New Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_new_password">New Password</string>
+    <string name="hint_password">Password</string>
+    <string name="info_coming_soon">This feature is coming soon!</string>
+    <string name="login_subtitle">Welcome back! Please log in to continue.</string>
+    <string name="login_title">Sign In</string>
+    <string name="logout_confirm_message">Are you sure you want to logout?</string>
+    <string name="logout_confirm_title">Logout</string>
+    <string name="module_analytics">Analytics</string>
+    <string name="module_calendar">Calendar</string>
+    <string name="module_files">Files</string>
+    <string name="module_help">Help</string>
+    <string name="module_messages">Messages</string>
+    <string name="module_notifications">Notifications</string>
+    <string name="module_profile">Profile</string>
+    <string name="module_settings">Settings</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="profile_email_label">Email</string>
+    <string name="profile_name_label">Name</string>
+    <string name="profile_role_label">Role</string>
+    <string name="profile_role_value">Standard User</string>
+    <string name="profile_title">My Profile</string>
+    <string name="register_subtitle">Fill in the details to get started.</string>
+    <string name="register_title">Create Account</string>
+    <string name="reset_password_subtitle">Enter your new password below.</string>
+    <string name="reset_password_title">Reset Password</string>
+    <string name="splash_loading">Loading…</string>
+    <string name="splash_welcome">Welcome to MyApp</string>
+    <string name="success_password_reset">Password has been reset successfully!</string>
+    <string name="success_registered">Account created! You can now log in.</string>
+    <string name="success_reset_sent">A simulated reset link has been sent to your email.</string>
+    <style name="ButtonOutlined" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:textColor">@color/primary</item>
+        <item name="strokeColor">@color/primary</item>
+        <item name="android:textSize">15sp</item>
+        <item name="cornerRadius">8dp</item>
+    </style>
+    <style name="ButtonPrimary" parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">@color/text_on_primary</item>
+        <item name="backgroundTint">@color/primary</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+        <item name="cornerRadius">8dp</item>
+    </style>
+    <style name="ButtonText" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">@color/primary</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="CardModule" parent="Widget.MaterialComponents.CardView">
+        <item name="cardCornerRadius">12dp</item>
+        <item name="cardElevation">4dp</item>
+        <item name="android:foreground">?attr/selectableItemBackground</item>
+    </style>
+    <style name="TextInputStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/primary</item>
+        <item name="hintTextColor">@color/primary</item>
+        <item name="android:textColorHint">@color/text_hint</item>
+    </style>
+    <style name="TextSubtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+    <style name="TextTitle">
+        <item name="android:textSize">26sp</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Theme.MyApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/status_bar_color</item>
+    </style>
+    <style name="Theme.MyApp.NoActionBar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/status_bar_color</item>
+        <item name="colorSurface">@color/surface</item>
+    </style>
+    <style name="Theme.MyApp.Splash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/primary</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+    </style>
+</resources>

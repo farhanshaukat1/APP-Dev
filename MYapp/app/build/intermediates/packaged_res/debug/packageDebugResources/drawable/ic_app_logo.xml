@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- App logo - stylized "M" letter in a rounded square -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background circle -->
+    <path
+        android:pathData="M54,54m-50,0a50,50 0,1 1,100 0a50,50 0,1 1,-100 0"
+        android:fillColor="#FFFFFF" />
+    <!-- Letter M path -->
+    <path
+        android:pathData="M24,76L24,34L36,34L54,58L72,34L84,34L84,76L74,76L74,50L56,74L52,74L34,50L34,76Z"
+        android:fillColor="#1565C0" />
+</vector>

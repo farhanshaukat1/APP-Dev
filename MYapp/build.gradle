@@ -1,0 +1,5 @@
+// Top-level build.gradle
+// AGP 8.7.x is compatible with Gradle 9.6.x (used by Android Studio 2026.1.4 / Ladybug)
+plugins {
+    id 'com.android.application' version '8.7.3' apply false
+}

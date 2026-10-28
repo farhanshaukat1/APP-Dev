@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">MyApp</string>
+    <string name="app_tagline">Your Smart Companion</string>
+
+    <!-- Splash Screen -->
+    <string name="splash_welcome">Welcome to MyApp</string>
+    <string name="splash_loading">Loading…</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Sign In</string>
+    <string name="login_subtitle">Welcome back! Please log in to continue.</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Create Account</string>
+    <string name="btn_forgot_password">Forgot Password?</string>
+    <string name="no_account">Don\'t have an account?</string>
+
+    <!-- Register Screen -->
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Fill in the details to get started.</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="btn_register_submit">Register</string>
+    <string name="already_have_account">Already have an account? </string>
+    <string name="btn_sign_in">Sign In</string>
+
+    <!-- Forgot Password Screen -->
+    <string name="forgot_password_title">Forgot Password</string>
+    <string name="forgot_password_subtitle">Enter your email and we\'ll send you a reset link.</string>
+    <string name="btn_send_reset">Send Reset Link</string>
+    <string name="back_to_login">Back to Login</string>
+
+    <!-- Reset Password Screen -->
+    <string name="reset_password_title">Reset Password</string>
+    <string name="reset_password_subtitle">Enter your new password below.</string>
+    <string name="hint_new_password">New Password</string>
+    <string name="hint_confirm_new_password">Confirm New Password</string>
+    <string name="btn_reset_password">Reset Password</string>
+
+    <!-- Dashboard Screen -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="dashboard_greeting">Hello, %1$s!</string>
+    <string name="module_profile">Profile</string>
+    <string name="module_settings">Settings</string>
+    <string name="module_notifications">Notifications</string>
+    <string name="module_messages">Messages</string>
+    <string name="module_analytics">Analytics</string>
+    <string name="module_calendar">Calendar</string>
+    <string name="module_files">Files</string>
+    <string name="module_help">Help</string>
+
+    <!-- Profile Screen -->
+    <string name="profile_title">My Profile</string>
+    <string name="profile_name_label">Name</string>
+    <string name="profile_email_label">Email</string>
+    <string name="profile_role_label">Role</string>
+    <string name="profile_role_value">Standard User</string>
+    <string name="btn_logout">Logout</string>
+    <string name="btn_edit_profile">Edit Profile</string>
+    <string name="logout_confirm_title">Logout</string>
+    <string name="logout_confirm_message">Are you sure you want to logout?</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_cancel">Cancel</string>
+
+    <!-- Validation Messages -->
+    <string name="error_field_required">This field is required.</string>
+    <string name="error_invalid_email">Please enter a valid email address.</string>
+    <string name="error_password_short">Password must be at least 6 characters.</string>
+    <string name="error_passwords_no_match">Passwords do not match.</string>
+    <string name="error_invalid_credentials">Invalid email or password.</string>
+    <string name="error_email_not_found">Email address not registered.</string>
+    <string name="error_name_short">Name must be at least 2 characters.</string>
+
+    <!-- Success / Info Messages -->
+    <string name="success_registered">Account created! You can now log in.</string>
+    <string name="success_reset_sent">A simulated reset link has been sent to your email.</string>
+    <string name="success_password_reset">Password has been reset successfully!</string>
+    <string name="info_coming_soon">This feature is coming soon!</string>
+</resources>

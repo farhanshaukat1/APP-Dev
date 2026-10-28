@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Night mode color overrides -->
+<resources>
+    <!-- Primary Brand Colors (same in night mode) -->
+    <color name="primary">#1E88E5</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="primary_light">#42A5F5</color>
+    <color name="accent">#FFB300</color>
+
+    <!-- Backgrounds (dark for night mode) -->
+    <color name="background">#121212</color>
+    <color name="surface">#1E1E1E</color>
+    <color name="card_background">#2C2C2C</color>
+
+    <!-- Text Colors (light for night mode) -->
+    <color name="text_primary">#EFEFEF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="text_hint">#757575</color>
+    <color name="text_on_primary">#FFFFFF</color>
+
+    <!-- Status Colors -->
+    <color name="error_color">#EF5350</color>
+    <color name="success_color">#66BB6A</color>
+    <color name="warning_color">#FFA726</color>
+
+    <!-- Divider and Border (subtle in dark mode) -->
+    <color name="divider">#333333</color>
+    <color name="border">#424242</color>
+
+    <!-- Status bar -->
+    <color name="status_bar_color">#1565C0</color>
+</resources>
